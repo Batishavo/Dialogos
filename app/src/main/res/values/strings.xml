@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Dialogos</string>
+    <string name="dialog">Dialog</string>
+    <string name="todo">TODO</string>
+</resources>
